@@ -1,0 +1,14 @@
+jupyter 
+lxml
+MarkupSafe==1.1.1
+matplotlib
+notebook 
+numpy
+openpyxl==3.0.4
+pandas
+Pillow
+scikit-learn
+scipy
+seaborn==0.11.0
+spyder
+SQLAlchemy
